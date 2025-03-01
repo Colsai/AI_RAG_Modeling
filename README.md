@@ -1,2 +1,2 @@
 # AI_RAG_Modeling
-AI and Rag Projects
+SImple AI and Rag Projects using ChromaDB / Colab / Jupyter
